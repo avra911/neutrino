@@ -1,4 +1,4 @@
-Neutrino Core integration/staging tree
+Neutrino Core integration/staging tree (Draft)
 =====================================
 
 https://bitcoincore.org
@@ -15,7 +15,8 @@ Neutrino is an experimental digital currency that enables instant payments to
 anyone, anywhere in the world. Neutrino uses peer-to-peer technology to operate
 with no central authority: managing transactions and issuing money are carried
 out collectively by the network. Neutrino Core is the name of open source
-software which enables the use of this currency.
+software which enables the use of this currency. The Neutrino initial setup will 
+be to create the first free digital coin.
 
 For more information read the original Neutrino whitepaper.
 
